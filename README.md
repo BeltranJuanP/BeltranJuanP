@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Juan Beltran
+👋 Hi, I’m Juan Beltran
 
 Feel free to check out some of my pinned projects.
 
